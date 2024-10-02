@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /M-TEST ASU Advanced Installer/M-TEST ASU Installer-cache
 *.bak
 /M-TEST ASU/TestResultPage/ViewModel/TestResultViewModel.cs
+
+/db
